@@ -6,5 +6,5 @@ cask 'sands' do
   name 'SandS'
   homepage 'https://github.com/toqoz/SandS'
 
-  app 'Sands.app'
+  app 'SandS.app'
 end
